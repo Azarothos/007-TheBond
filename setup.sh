@@ -8,6 +8,6 @@ echo Google Installed
  echo Downloading Https Request 
  pip install requests
  echo Httspps request download scuessfull
- echo  Dwonlaoding a module 
+ echo  Downloading a module 
   pip install six 
 echo Important libaries downloaded Sucessfuly 
